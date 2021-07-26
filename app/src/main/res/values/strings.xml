@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="gameNameHint">Game name (example: just_for _fun)</string>
+    <string name="save">Save</string>
+    <string name="enter_game_name">Enter game name</string>
+</resources>
